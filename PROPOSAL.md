@@ -9,6 +9,7 @@
 - **Name 2**, **UB Email Address 2**
 - **Name 3**, **UB Email Address 3**
 - **Name 4**, **UB Email Address 4**
+
 *No more than 4 team members are allowed.  No exceptions.*
 
 ---
