@@ -1,15 +1,28 @@
-# Write a Brief Descriptive Title Here
+# Data Analysis and Visualization of NYC EV Fleet Station Network
 
-Authors:  **Name 1**, **Name 2**, etc.
+Authors:  **Genith Silvester George Betsy**, **Lakshmi Narasimhan Jayasimhan**, **Khushboo Ashwin Parmar**, **Manmohan Vijaybhaskar Adam**.
 
 YouTube Video:  [Link](http://your_link_goes_here)
 
----
 
-**NOTE**:  The *italicized* content below is for your reference only.  Please remove these comments before submitting.
+## Task List
 
-
----
+| ID | Task Description | Due Date | Status |
+| --- | --- | --- | --- |
+| 1 | Define project scope and objectives | 2023-04-21 | DONE |
+| 2 | Detailed project proposal | 2023-04-24 | DONE |
+| 3 | Data cleaning | 2023-04-27 | DONE |
+| 4 | Analyzing charging stations located in New York City | 2023-05-02 | DONE |
+| 5 | Evaluating and comparing agencies in NYC based on their operational size | 2023-05-04 | DONE |
+| 6 | Visualize agency charging port capacity | 2023-05-06 | DONE |
+| 7 | Analysis on number of charging ports | 2023-05-08 | In progress |
+| 8 | Analyzing the capacity of charging stations in the different boroughs of NYC | 2023-05-10 | Not started |
+| 9 | Number of vehicles in operation within each Borough | 2023-05-12 | Not started |
+| 10 | Number of agencies in operation within each Borough | 2023-05-14 | Not started |
+| 11 | Number of agencies in operation within each Borough | 2023-05-15 | Not started |
+| 12 | Result of the analysis | 2023-05-15 | Not started |
+| 13 | Complete YouTube video and upload to YouTube | 2023-05-16 | Not started |
+| 14 | Upload README.md document to Github | 2023-05-17 | Not started |
 
 ## Introduction
 *The purpose of this section is to provide some background about your project.  For example, your introduction should discuss*
